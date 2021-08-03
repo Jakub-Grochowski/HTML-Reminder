@@ -1,3 +1,19 @@
 p{
   font-size: 45px
 }
+header{
+  background-color: #666;
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+nav{
+  float: left;
+ width: 10%;
+ background: #ccc;
+}
+article{
+  float: left;
+  width: 90%;
+  background: #888;
+}

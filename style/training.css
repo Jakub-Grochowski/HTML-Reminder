@@ -1,0 +1,40 @@
+#container{
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#logo{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+#nav{
+  float: left;
+  background-color: lightgray;
+  color: black;
+  width: 14%;
+  padding: 1%
+}
+#content{
+  float: left;
+  background-color: black;
+  color: white;
+  width: 64%;
+  padding: 2%
+}
+#ad{
+  float: left;
+  background-color: lightblue;
+  color: white;
+  width: 14%;
+  padding: 1%
+}
+#footer{
+  clear: both;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
